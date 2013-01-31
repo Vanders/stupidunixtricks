@@ -1,0 +1,4 @@
+stupidunixtricks
+================
+
+Stupid UNIX tricks
